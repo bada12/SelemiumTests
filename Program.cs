@@ -10,7 +10,6 @@ namespace SeleniumTask
     {
         static void Main(string[] args)
         {
-            Console.WriteLine((int)SubjectHeadingOption.Choose);
         }
     }
 
